@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1812875.jpg");
+}
+
+.prediction {
+    line-height: 0px;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    color: darkblue;
+}
+
+button.submitBtn {
+    font-family: 'Righteous', cursive;
+    color: red;
+}
+
+p {
+    font-family: 'Righteous', cursive;
+}
+
+h5 {
+    font-family: 'Righteous', cursive;
+}
